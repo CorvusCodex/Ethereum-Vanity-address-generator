@@ -22,7 +22,7 @@ To install this tool, you will need to have Node.js installed on your system. On
 4. After npm install you can turn off the internet connection.
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-https://www.buymeacoffee.com/CorvusCodex/
+[https://www.buymeacoffee.com/CorvusCodex/](https://www.buymeacoffee.com/CorvusCodex/e/164487)
 ## Usage
 
 To use this tool, follow these steps:
